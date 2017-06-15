@@ -1,2 +1,3 @@
 # flatBlogTheme
-A beutiful blog theme
+A nice blog page
+view on http://colonel.pro/flatBlogTheme/
